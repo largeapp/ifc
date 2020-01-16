@@ -5,7 +5,7 @@ See the following publications for examples of this code in use:
  * **Interpretable Learning Approaches in Resting-state Functional Connectivity Analysis: the Case of Autism Spectrum Disorder.** Jinlong Hu, Lijie Cao, Tenghui Li, Bin Liao, Shoubin Dong, Ping Li. (submitted)
 
 ### Codes
-
+The codes would be published soon after the paper accepted.
 
 ### Experiment results
  
