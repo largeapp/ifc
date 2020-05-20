@@ -6,7 +6,9 @@ See the following publications for examples of this code in use:
 
 ### Codes
 [model.py](model.py) is the Python code of FCNN model.  
-[FCNN_analyse.py](FCNN_analyse.py) is the Python code of the explanation of FCNN model.  
+[cal_weight.py](cal_weight.py) is the Python code of calculating the weight of features.  
+
+
 
 
 
