@@ -1,11 +1,12 @@
 # Interpretable Learning Approaches in Resting-state Functional Connectivity Analysis
 IFC is a repository of codes and experiment results for Research on Interpretable Learning Approaches in Resting-state Functional Connectivity Analysis, using Keras (version 2.2.4) with TensorFlow (version 1.12.0) as backend.
 ### Publications
-This is an on-going project we are working on.
+See the following publications for examples of this code in use:
+ * **Interpretable Learning Approaches in Resting-State Functional Connectivity Analysis: The Case of Autism Spectrum Disorder.** Jinlong Hu, Lijie Cao, Tenghui Li, Bin Liao, Shoubin Dong, and Ping Li, [Computational and Mathematical Methods in Medicine](https://www.hindawi.com/journals/cmmm/2020/1394830/), Volume 2020, Article ID 1394830, 2020.
 
 ### Codes
-The codes would be published soon after the corresponding paper accepted.
+[model.py](model.py) is the Python code of FCNN model.  
+[FCNN_analyse.py](FCNN_analyse.py) is the Python code of the explanation of FCNN model.  
 
-### Experiment results
- 
-#### Classification performance
+
+
