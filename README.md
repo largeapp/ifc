@@ -1,5 +1,7 @@
 # Interpretable Learning Approaches in Resting-state Functional Connectivity Analysis
-IFC is a repository of codes and experiment results for Research on Interpretable Learning Approaches in Resting-state Functional Connectivity Analysis, using Keras (version 2.2.4) with TensorFlow (version 1.12.0) as backend. Our research collection on artificial intelligence for brain image analysis is available on [this page](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
+IFC is a repository of codes and experiment results for Research on Interpretable Learning Approaches in Resting-state Functional Connectivity Analysis, using Keras (version 2.2.4) with TensorFlow (version 1.12.0) as backend. 
+
+Our research collection on artificial intelligence for brain image analysis is available on [this link](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
 
 ### Publications
 See the following publications for examples of this code in use:
